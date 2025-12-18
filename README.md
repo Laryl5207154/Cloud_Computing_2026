@@ -1,12 +1,12 @@
 LISTES DES MEMBRES DU GROUPE 7
 
-23B276FS ABDOURAHAMAN ABB0 (Présent pendant l'échange sur le choix de l'agorithme, proposition des commentaires dans le code python, proposition d'Algorithme)
+23B276FS ABDOURAHAMAN ABB0 (Présent pendant l'échange sur le choix de l'agorithme de chaque exercice, proposition des commentaires dans le code python, proposition d'Algorithme)
 
-25A155FS FOUEDJEU WOBENG YVES LARYL  (Proposition de l'agorithme final, écriture du code python et publication sur GitHub)
+25A155FS FOUEDJEU WOBENG YVES LARYL  (Proposition de l'agorithme final de chaque exercice, écriture du code python et publication sur GitHub)
 
-24B507FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme, assistance lors de la publication sur GitHub et proposition d'Algorithme)
+24B507FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme de chaque exercice, assistance lors de la publication sur GitHub et proposition d'Algorithme)
 
-25A11FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme)
+25A11FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme de chaque exercice)
 
 EXPLICATION DE LA RESOLUTION DU PROBLEME
 Pour comprendre la logique du jeu du pendu de l'exercice 23 nous avons utiliser l'Algorithme ci dessous
