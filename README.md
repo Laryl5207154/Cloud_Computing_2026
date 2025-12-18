@@ -1,10 +1,10 @@
 LISTES DES MEMBRES DU GROUPE 7
 
-23B276FS ABDOURAHAMAN ABB0 (Présent pendant l'échange sur le choix de l'agorithme)
+23B276FS ABDOURAHAMAN ABB0 (Présent pendant l'échange sur le choix de l'agorithme, proposition des commentaires dans le code python, proposition d'Algorithme)
 
 25A155FS FOUEDJEU WOBENG YVES LARYL  (Proposition de l'agorithme final, écriture du code python et publication sur GitHub)
 
-24B507FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme et assistance lors de la publication sur GitHub)
+24B507FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme, assistance lors de la publication sur GitHub et proposition d'Algorithme)
 
 25A11FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme)
 
