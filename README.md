@@ -1,12 +1,16 @@
 LISTES DES MEMBRES DU GROUPE 7
 
 23B276FS ABDOURAHAMAN ABB0 (Présent pendant l'échange sur le choix de l'agorithme)
+
 25A155FS FOUEDJEU WOBENG YVES LARYL  (Proposition de l'agorithme final, écriture du code python et publication sur GitHub)
+
 25A155FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme et assistance lors de la publication sur GitHub)
+
 25A155FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme)
 
 EXPLICATION DE LA RESOLUTION DU PROBLEME
 Pour arriver à trouver une logique dans la conception du jeu on s'est fié à cette Algorithme ci dessous simple et efficace 
+
 ALGORITHME Jeu_du_pendu 
 VARIABLES
     secret_word : CHAINE
