@@ -9,7 +9,7 @@ LISTES DES MEMBRES DU GROUPE 7
 25A11FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme)
 
 EXPLICATION DE LA RESOLUTION DU PROBLEME
-Pour arriver à trouver une logique dans la conception du jeu on s'est fié à cette Algorithme ci dessous simple et efficace 
+Pour comprendre la logique du jeu du pendu de l'exercice 23 nous avons utiliser l'Algorithme ci dessous
 
 ALGORITHME Jeu_du_pendu
 
@@ -60,7 +60,7 @@ DEBUT
     FIN SI
 FIN
 
-Pour comprendre la logique du compresseur de texte simple nous avons utiliser l'Algoritme ci dessous 
+Pour comprendre la logique du compresseur de texte simple de l'exercice 5 nous avons utiliser l'Algoritme ci dessous 
 
 FONCTION Compresser(texte : CHAINE) RETOURNE CHAINE
 
@@ -90,7 +90,7 @@ FONCTION Compresser(texte : CHAINE) RETOURNE CHAINE
     RETOURNER resultat
 FIN FONCTION
 
-Pour comprendre la logique de la validation d'une adresse IP nous avons utiliser l'Algoritme ci dessous 
+Pour comprendre la logique de la validation d'une adresse IP de l'exercice 6 nous avons utiliser l'Algoritme ci dessous 
 
 FONCTION Verif_IP_Standard(ip : CHAINE) RETOURNE BOOLEEN
 
