@@ -59,3 +59,64 @@ DEBUT
         AFFICHER "PERDU"
     FIN SI
 FIN
+
+Pour comprendre la logique du compresseur de texte simple nous avons utiliser l'Algoritme ci dessous 
+
+FONCTION Compresser(texte : CHAINE) RETOURNE CHAINE
+
+    longueur <- LONGUEUR(texte)
+    SI longueur == 0 ALORS RETOURNER ""
+
+    resultat <- ""
+    compteur <- 1
+    
+    // On commence au deuxième caractère (index 1) et on regarde derrière
+    POUR i ALLANT DE 1 A longueur - 1 FAIRE
+        lettre_actuelle <- texte[i]
+        lettre_precedente <- texte[i-1]
+
+        SI lettre_actuelle == lettre_precedente ALORS
+            compteur <- compteur + 1
+        SINON
+            // Changement de lettre détecté : on archive la précédente
+            resultat <- resultat + lettre_precedente + compteur
+            compteur <- 1 // Reset
+        FIN SI
+    FIN POUR
+
+    // On n'oublie pas d'ajouter le dernier groupe qui est resté en mémoire
+    resultat <- resultat + texte[longueur - 1] + compteur
+
+    RETOURNER resultat
+FIN FONCTION
+
+Pour comprendre la logique de la validation d'une adresse IP nous avons utiliser l'Algoritme ci dessous 
+
+FONCTION Verif_IP_Standard(ip : CHAINE) RETOURNE BOOLEEN
+
+    // Étape 1 : Découper la chaîne par les points
+    octets <- SPLIT(ip, ".")
+    
+    // Étape 2 : Vérifier qu'il y a exactement 4 parties
+    SI LONGUEUR(octets) != 4 ALORS
+        RETOURNER FAUX
+    FIN SI
+
+    // Étape 3 : Analyser chaque partie
+    POUR CHAQUE morceau DANS octets FAIRE
+        // On doit vérifier si c'est un nombre avant de convertir
+        SI NON EST_NUMERIQUE(morceau) ALORS
+            RETOURNER FAUX
+        FIN SI
+
+        valeur <- CONVERTIR_EN_ENTIER(morceau)
+
+        // Vérification de l'intervalle 0-255
+        SI valeur < 0 OU valeur > 255 ALORS
+            RETOURNER FAUX
+        FIN SI
+    FIN POUR
+
+    // Si on arrive ici, tout est bon
+    RETOURNER VRAI
+FIN FONCTION
