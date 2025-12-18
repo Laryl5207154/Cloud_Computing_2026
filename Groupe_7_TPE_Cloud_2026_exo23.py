@@ -1,5 +1,6 @@
 #Déclaration des variables et constante
 #Détermination de la taille du mot à deviner et par la meme occasion attribuer un nombre de # égal à la taille du mot
+#le mot à deviné doit être en minuscule uniquement
 
 secret_word = "bonjour"
 masque = []
@@ -39,4 +40,5 @@ final_word = input("Les 6 éssais sont finis. Proposez le mot complet : ".lower(
 if final_word == secret_word :
     print("GAGNE")
 else :
+
     print("PERDU")
