@@ -4,7 +4,7 @@ LISTES DES MEMBRES DU GROUPE 7
 
 25A155FS FOUEDJEU WOBENG YVES LARYL  (Proposition de l'agorithme final, écriture du code python et publication sur GitHub)
 
-25A155FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme et assistance lors de la publication sur GitHub)
+24B507FS SOH CHENDJOU JUNIOR  (Présent pendant l'échange sur le choix de l'agorithme et assistance lors de la publication sur GitHub)
 
 25A155FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme)
 
