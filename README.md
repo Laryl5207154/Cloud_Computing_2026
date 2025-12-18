@@ -12,13 +12,17 @@ EXPLICATION DE LA RESOLUTION DU PROBLEME
 Pour arriver à trouver une logique dans la conception du jeu on s'est fié à cette Algorithme ci dessous simple et efficace 
 
 ALGORITHME Jeu_du_pendu
+
 VARIABLES
+
     secret_word : CHAINE
     masque : TABLEAU DE CARACTERES
     letter : CARACTERE
     final_word : CHAINE
     i, j : ENTIER
+    
 DEBUT
+
     secret_word <- "bonjour"
     size <- LONGUEUR(secret_word)
   
