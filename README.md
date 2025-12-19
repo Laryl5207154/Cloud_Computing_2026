@@ -13,6 +13,7 @@ LISTES DES MEMBRES DU GROUPE 7
 25A210FS  KEMADJOU TCHAKOTE KERRY BRYAN (Présent pendant l'échange sur le choix de l'agorithme de chaque exercice)
 
 EXPLICATION DE LA RESOLUTION DU PROBLEME
+
 Pour comprendre la logique du jeu du pendu de l'exercice 23 nous avons utiliser l'Algorithme ci dessous
 
 ALGORITHME Jeu_du_pendu
