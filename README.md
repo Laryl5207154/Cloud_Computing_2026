@@ -8,6 +8,10 @@ LISTES DES MEMBRES DU GROUPE 7
 
 25A11FS SONCHIEU NGUETSE ANGE NERVEILLE (Proposition et présent pendant l'échange sur le choix de l'agorithme de chaque exercice)
 
+25A074FS CHENDJOU SOKAMTE FRANCKY RDLY (Présent pendant l'échange sur le choix de l'agorithme de chaque exercice)
+
+25A210FS  KEMADJOU TCHAKOTE KERRY BRYAN (Présent pendant l'échange sur le choix de l'agorithme de chaque exercice)
+
 EXPLICATION DE LA RESOLUTION DU PROBLEME
 Pour comprendre la logique du jeu du pendu de l'exercice 23 nous avons utiliser l'Algorithme ci dessous
 
